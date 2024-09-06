@@ -1,5 +1,5 @@
 # PGSR
-====
+
 > [Learning Piecewise Planar Representation for RGB Guided Depth Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10629189), in *IEEE Transactions on Computational Imaging* (TCI), 2024.
 > Ruikang Xu, Mingde Yao, Yuanshen Guan, Zhiwei Xiong.
 
