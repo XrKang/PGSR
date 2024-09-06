@@ -35,6 +35,11 @@ cd ./src && python test.py
 cd ./src && python train.py
 ```
 
+****
+## Contact
+Any question regarding this work can be addressed to xurk@mail.ustc.edu.cn.
+
+****
 ## Citation
 If you find our work helpful, please cite the following paper.
 ```
